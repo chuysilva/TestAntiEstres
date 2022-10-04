@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test AntiEstres</string>
+    <string name="TextView">Test para la medición de Estrés</string>
+    <string name="Button">Comenzar</string>
+    <string name="ButtonSiguiente">Siguiente</string>
+    <string name="Text">Cuarta Pregunta</string>
+    <string name="Pregunta1">¿Cuánta carga de estrés tienes en estos momentos?</string>
+    <string name="Pregunta2">¿Te enfadas fácilmente?</string>
+    <string name="Pregunta3">¿Qué tanto te cuesta levantarte de la cama?</string>
+    <string name="Pregunta4">¿Qué tan capaz te siente para manejar el estrés cuando lo está experimentando?</string>
+    <string name="Pregunta5">¿Qué tanto te cuesta mantener el control emocional en los conflictos personales?</string>
+    <string name="Pregunta6">¿Qué tan estresado te sientes durante todo el período escolar?</string>
+    <string name="Pregunta7">¿Tengo un exceso de estrés por cumplir mis obligaciones académicas?</string>
+    <string name="Pregnuta8">¿Tengo estrés cuando algun trabajo academico importante se aproxima?</string>
+    <string name="Pregunta9">¿Tengo presión familiar tienes por obtener resultados académicos adecuados?</string>
+    <string name="Pregunta10">¿Cuantas presion tiene por poder asistir a todas las clases?</string>
+    <string name="Resultado">Este es tu resultado:</string>
+    <string name="Descripcion">Segun el resultado que obtuviste te mostramos algunas sugerencias que podrian mejor tu estado de animo y bajar tu nivel de estrés.</string>
+    <string name="Puntaje1">Si obtuviste Menos de 15 puntos:</string>
+    <string name="Puntaje2">Si obtuviste Entre 16 a 30 puntos:</string>
+    <string name="Puntaje3">Si obtuviste Mas de 31 puntos:</string>
+</resources>
